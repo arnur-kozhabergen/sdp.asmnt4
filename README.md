@@ -15,3 +15,5 @@ The example uses simulated audio samples. BitrateReader reduces or duplicates sa
 
 UML diagram
 Created in draw.io. Open media-conversion-uml.png to view it.
+
+GitHub repository: https://github.com/arnur-kozhabergen/sdp.asmnt4
