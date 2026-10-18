@@ -1,0 +1,6 @@
+src/Main.java
+src/conversion/AudioMixer.java
+src/conversion/BitrateReader.java
+src/conversion/CodecFactory.java
+src/conversion/MediaConversionFacade.java
+src/conversion/MetadataReader.java
